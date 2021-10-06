@@ -41,8 +41,23 @@ TagManager:
   - name: Background
     uniqueID: 2424153585
     locked: 0
+  - name: far
+    uniqueID: 2995537037
+    locked: 0
+  - name: 'distance '
+    uniqueID: 271568913
+    locked: 0
+  - name: sea
+    uniqueID: 3508445035
+    locked: 0
   - name: Foreground
     uniqueID: 3928980359
+    locked: 0
+  - name: front
+    uniqueID: 4060446203
+    locked: 0
+  - name: infront
+    uniqueID: 1617567163
     locked: 0
   - name: Default
     uniqueID: 0
