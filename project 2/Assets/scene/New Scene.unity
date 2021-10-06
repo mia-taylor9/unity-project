@@ -6315,7 +6315,7 @@ GameObject:
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!81 &1473297998
 AudioListener:
@@ -6352,7 +6352,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 16.80589
+  orthographic size: 15.011436
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
