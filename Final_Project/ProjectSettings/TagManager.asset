@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 'background '
+    uniqueID: 273385989
+    locked: 0
+  - name: planets
+    uniqueID: 1552855469
+    locked: 0
+  - name: mountains
+    uniqueID: 896061049
+    locked: 0
+  - name: ocean
+    uniqueID: 786432807
+    locked: 0
+  - name: New Layer
+    uniqueID: 4212420547
+    locked: 0
+  - name: colonms
+    uniqueID: 345546375
+    locked: 0
+  - name: sand
+    uniqueID: 419678027
+    locked: 0
+  - name: player
+    uniqueID: 201690527
+    locked: 0
