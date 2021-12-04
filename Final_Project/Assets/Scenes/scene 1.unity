@@ -299,7 +299,7 @@ GameObject:
   - component: {fileID: 607849576}
   - component: {fileID: 607849575}
   m_Layer: 0
-  m_Name: sprites _5
+  m_Name: planet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -381,7 +381,7 @@ GameObject:
   - component: {fileID: 807187070}
   - component: {fileID: 807187069}
   m_Layer: 0
-  m_Name: sprites _0
+  m_Name: coloumn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -760,7 +760,7 @@ GameObject:
   - component: {fileID: 1262399788}
   - component: {fileID: 1262399787}
   m_Layer: 0
-  m_Name: sprites _1
+  m_Name: coloumn 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -907,8 +907,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1352455990}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0139, y: 0.71, z: 0}
-  m_LocalScale: {x: 0.9501484, y: 0.63404715, z: 1}
+  m_LocalPosition: {x: -0.1535, y: 0.71, z: 0}
+  m_LocalScale: {x: 1.1487045, y: 0.63404715, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
@@ -924,7 +924,7 @@ GameObject:
   - component: {fileID: 1385683092}
   - component: {fileID: 1385683091}
   m_Layer: 0
-  m_Name: sprites _6
+  m_Name: planet 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1257,7 +1257,7 @@ GameObject:
   - component: {fileID: 1842039504}
   - component: {fileID: 1842039503}
   m_Layer: 0
-  m_Name: sprites _7
+  m_Name: 'temple '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1339,7 +1339,7 @@ GameObject:
   - component: {fileID: 2141954164}
   - component: {fileID: 2141954163}
   m_Layer: 0
-  m_Name: sprites _4
+  m_Name: fabric
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
